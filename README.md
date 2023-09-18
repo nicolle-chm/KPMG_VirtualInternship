@@ -1,5 +1,5 @@
 # KPMG Virtual Internship
-This project was undertaken as part of the KPMG Virtual Internship program. The primary objective was to assist Sprocket Central Pty, a mid-sized organization specializing in bikes and cycling accessories, in effectively analyzing their data and optimizing their marketing strategy.
+This project was undertaken as part of the KPMG Virtual Internship program [(see certificate here)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_fHxSfigvAMp3fQ6Kh_1692723648433_completion_certificate.pdf). The primary objective was to assist Sprocket Central Pty, a mid-sized organization specializing in bikes and cycling accessories, in effectively analyzing their data and optimizing their marketing strategy.
 
 The project encompassed three key tasks. Firstly, a comprehensive data quality analysis was conducted using Python on four provided datasets, leading to the creation of a concise and insightful report.
 
